@@ -1,7 +1,5 @@
 <h1 align="center">Olá, eu sou MikasDev 👋</h1>
 
-## Sobre mim
-- 🔭 Atualmente estou estudando Java
   
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=MikasDev&theme=radical&mode=weekly" />
